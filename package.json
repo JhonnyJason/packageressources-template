@@ -12,12 +12,12 @@
     "license": "Unlicense",
     "repository": {
         "type": "git",
-        "url": "git+https://.git"
+        "url": "git+https://github.com/JhonnyJason/noname-output.git"
     },
     "bugs": {
-        "url": "https://"
+        "url": "https://github.com/JhonnyJason/noname/issues"
     },
-    "homepage": "https://",
+    "homepage": "https://github.com/JhonnyJason/noname-output/#readme",
     "dependencies": {},
     "type":"module"
 }
